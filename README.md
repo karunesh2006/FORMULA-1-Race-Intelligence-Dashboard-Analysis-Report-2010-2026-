@@ -63,7 +63,7 @@ formula-1-race-intelligence/
 ```
 
 ## Demo Video
-`[ADD DEMONSTRATION VIDEO LINK OR SUBMISSION LOCATION]`
+`(https://youtu.be/76CS7kMxmpI)`
 
 ## Conclusion
 The project brings multiple perspectives on Formula 1 history into a single dashboard and narrative story, demonstrating how data visualization can support exploratory performance analysis and communication.
