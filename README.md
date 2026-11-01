@@ -38,7 +38,6 @@ The project uses relevant Formula 1 tables such as race results, races, drivers,
 - **Dashboard URL:** https://public.tableau.com/app/profile/karunesh.geedkar/viz/Formula1Dashboard_17932450823720/Formula1RaceIntelligenceDashboard?publish=yes
 - **Story:** Formula 1 Race Intelligence Story
 - **Story URL:** https://public.tableau.com/app/profile/karunesh.geedkar/viz/Formula1Dashboard_17932450823720/Formula1RaceIntelligenceStory?publish=yes
-Replace the placeholders with the exact published links before submitting.
 
 ## Tools
 - Tableau Public (web authoring)
