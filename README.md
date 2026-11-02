@@ -52,16 +52,6 @@ Performance testing has been completed, as reported by the project owner. No num
 - Findings should be based on the actual published charts and verified data values.
 - Exact validation totals and measured performance benchmarks are not included unless separately recorded.
 
-## Repository Structure (suggested)
-```text
-formula-1-race-intelligence/
-├── README.md
-├── Formula_1_Race_Intelligence_Report.pdf
-├── data/                 # Include only if redistribution is permitted
-├── screenshots/          # Optional dashboard/story screenshots
-└── video/                # Optional demo video, or add a link below
-```
-
 ## Demo Video
 [`(https://youtu.be/76CS7kMxmpI)`](https://youtu.be/76CS7kMxmpI)
 
